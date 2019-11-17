@@ -10,6 +10,8 @@
 
 ![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot2.png)
 
+![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot3.png)
+
 ## 模板特点
 
 - 保持了简洁大方的 Vuepress 原生主题风格。
