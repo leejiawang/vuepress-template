@@ -1,29 +1,40 @@
-# Vuepress 基础模板
+# Vuepress template
+
+> A page template based on Vuepress's native style.
 
 [English](README_EN.md) | [中文](README.md)
 
-## 预览
+## Preview
 
-![]()
+![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot5.png)
 
+![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot4.png)
 
-## 使用模板
+## Features
 
-- 克隆模板
+- Maintains a simple and elegant Vuepress native theme style.
+
+- Support for adding multiple languages and switching by selecting a language.
+
+- The template contains detailed comments, so that novices can also customize their own pages.
+
+## Installation
+
+- Clone
 ``` sh
 git clone https://github.com/leejiawang/vuepress-template.git
 ```
-- 安装 vuepresss
+- Install
 ``` sh
 yarn install & npm install -g vuepress
 ```
 
-- 预览页面
+- Preview
 ``` sh
 yarn run docs:dev & npm run docs:dev
 ```
 
-- 生成静态页面
+- Build
 ``` sh
 yarn run docs:build & npm run docs:build
 ```
