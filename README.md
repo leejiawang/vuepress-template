@@ -8,9 +8,9 @@
 
 ![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot1.png)
 
-![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot2.png)
-
 ![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot3.png)
+
+![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot2.png)
 
 ## 模板特点
 
