@@ -10,7 +10,7 @@
 
 ![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot3.png)
 
-![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot4.png)
+![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot5.png)
 
 ## 模板特点
 
