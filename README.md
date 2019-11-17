@@ -6,21 +6,15 @@
 
 ## 预览
 
-![ScreenShot](http://localhost:3000/logo.jpg)
+![ScreenShot](https://github.com/leejiawang/vuepress-template/blob/master/docs/.vuepress/public/screenshot1.png)
 
 ## 模板特点
 
-- 原生主题
+- 保持了简洁大方的 Vuepress 原生主题风格。
 
-保持了简洁大方的 Vuepress 原生主题风格。
+- 支持为添加多种语言，并通过选择语言进行切换。
 
-- 支持多语言
-
-支持为添加多种语言，并通过选择语言进行切换。
-
-- 适合新手
-
-模板内含详细注释，让新手也能深度自定义自己的页面。
+- 模板内含详细注释，让新手也能深度自定义自己的页面。
 
 ## 使用模板
 
