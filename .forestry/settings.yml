@@ -12,7 +12,7 @@ file_template: ":filename:"
 build:
   preview_output_directory: ".vuepress/dist"
   install_dependencies_command: yarn install
-  preview_docker_image: node:10
+  preview_docker_image: forestryio/hugo:node10
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: yarn run docs:dev
