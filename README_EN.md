@@ -12,11 +12,11 @@
 
 ## Features
 
-- Maintains a simple and elegant Vuepress native theme style.
+- Clean simple design.
 
-- Support for adding multiple languages and switching by selecting a language.
+- Multi-language support.
 
-- The template contains detailed comments, so that novices can also customize their own pages.
+- Handy shortcodes.
 
 ## Installation
 
